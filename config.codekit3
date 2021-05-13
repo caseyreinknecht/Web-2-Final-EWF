@@ -9,6 +9,14 @@
   ],
   "creatorBuild" : "34127",
   "files" : {
+    "\/.gitattributes" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/.gitattributes",
+      "oF" : 0
+    },
     "\/deploy\/css\/styles.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -108,6 +116,45 @@
       "oIPL" : 0,
       "opt" : 0,
       "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/studio\/studio1.jpg" : {
+      "ft" : 16384,
+      "iS" : 51050,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/studio\/studio1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/studio\/studio2.jpg" : {
+      "ft" : 16384,
+      "iS" : 37699,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/studio\/studio2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/studio\/studio3.jpg" : {
+      "ft" : 16384,
+      "iS" : 26731,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/studio\/studio3.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -489,8 +536,8 @@
   },
   "projectAttributes" : {
     "creationDate" : 641849351.53785396,
-    "displayValue" : "Web-2-Project-1",
-    "displayValueWasSetByUser" : 0,
+    "displayValue" : "Web-2-Final",
+    "displayValueWasSetByUser" : 1,
     "iconImageName" : "brackets-silver",
     "iconImageWasSetByUser" : 0
   },
